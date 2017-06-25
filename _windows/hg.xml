@@ -1,0 +1,11 @@
+<application>
+  <component name="HgGlobalSettings">
+    <option name="myHgExecutable" value="C:\Program Files\Mercurial\hg.exe" />
+    <option name="myRememberedUserNames">
+      <map>
+        <entry key="bitbucket.org/decell/decell-commons-6" value="daphshez" />
+        <entry key="bitbucket.org/decell/decell-commons-8" value="daphshez" />
+      </map>
+    </option>
+  </component>
+</application>

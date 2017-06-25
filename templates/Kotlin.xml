@@ -1,0 +1,3 @@
+<templateSet group="Kotlin">
+  <template name="lggr" value="private final Logger logger = LoggerFactory.getLogger($END$);" description="Logger declaration" toReformat="false" toShortenFQNames="true" />
+</templateSet>

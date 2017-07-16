@@ -1,0 +1,10 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="io.prospective.sync.mobility.network.impl.RoadLink.RoadLink(name,index,length,descriptiveTerm,natureOfRoad,start,end)" />
+        <added pattern="io.prospective.sync.mobility.network.impl.SimpleTransportNetwork.addEdge(startLinkKey,endLinkKey,edge)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

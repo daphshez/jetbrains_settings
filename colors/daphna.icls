@@ -1,8 +1,8 @@
 <scheme name="Daphna" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.5" />
-  <option name="EDITOR_FONT_SIZE" value="21" />
+  <option name="FONT_SCALE" value="1.25" />
+  <option name="EDITOR_FONT_SIZE" value="18" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="19" />
+  <option name="CONSOLE_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <colors>
     <option name="CARET_COLOR" value="ec7600" />
@@ -103,12 +103,12 @@
     </option>
     <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="334466" />
+        <option name="FOREGROUND" value="12a40f" />
       </value>
     </option>
     <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="334466" />
+        <option name="FOREGROUND" value="12a40f" />
       </value>
     </option>
     <option name="CUSTOM_NUMBER_ATTRIBUTES">

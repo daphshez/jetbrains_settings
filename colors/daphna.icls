@@ -1,9 +1,9 @@
 <scheme name="Daphna" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.25" />
   <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <colors>
     <option name="CARET_COLOR" value="ec7600" />
     <option name="CARET_ROW_COLOR" value="" />
@@ -308,7 +308,7 @@
       <value>
         <option name="EFFECT_COLOR" value="e8e2b7" />
         <option name="ERROR_STRIPE_COLOR" value="d9cfad" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">

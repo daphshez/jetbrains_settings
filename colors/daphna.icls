@@ -1,9 +1,9 @@
 <scheme name="Daphna" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.25" />
-  <option name="EDITOR_FONT_SIZE" value="18" />
-  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <option name="FONT_SCALE" value="1.5" />
+  <option name="EDITOR_FONT_SIZE" value="21" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="16" />
+  <option name="CONSOLE_FONT_SIZE" value="19" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="CARET_COLOR" value="ec7600" />
     <option name="CARET_ROW_COLOR" value="" />
@@ -9652,6 +9652,11 @@
     <option name="PY.FUNC_DEFINITION">
       <value>
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="2e9699" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">

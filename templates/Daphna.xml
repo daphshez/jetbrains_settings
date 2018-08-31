@@ -1,0 +1,7 @@
+<templateSet group="Daphna">
+  <template name="tde" value="throw new UnsupportedOperationException(&quot;todo&quot;);  // todo" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

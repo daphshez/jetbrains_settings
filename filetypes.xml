@@ -10,6 +10,7 @@
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="A_sample_expected" type="PLAIN_TEXT" />
       <mapping pattern="query_fields" type="PLAIN_TEXT" />
+      <mapping pattern=".cloudignore" type="PLAIN_TEXT" />
       <mapping pattern=".gcloudignore" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="expected" type="PLAIN_TEXT" />

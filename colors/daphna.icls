@@ -243,6 +243,11 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
+    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value />
     </option>

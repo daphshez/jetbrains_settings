@@ -17,9 +17,6 @@
     <variable name="VAR" expression="variableOfType(&quot;double&quot;)" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="psvm" value="public static void main(String[] args){&#10;  $END$&#10;}" description="main() method declaration" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context />
-  </template>
   <template name="main" value="public static void main(String[] args){&#10;  $END$&#10;}" description="main() method declaration" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>

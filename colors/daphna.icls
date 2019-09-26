@@ -56,6 +56,11 @@
         <option name="FOREGROUND" value="334466" />
       </value>
     </option>
+    <option name="CONSOLE_BLUE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="656fee" />
+      </value>
+    </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff86fe" />

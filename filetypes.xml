@@ -22,7 +22,6 @@
       <mapping ext="python" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
-      <mapping ext="py" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

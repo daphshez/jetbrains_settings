@@ -264,6 +264,9 @@
         <option name="FOREGROUND" value="ec7600" />
       </value>
     </option>
+    <option name="DEFAULT_TAG">
+      <value />
+    </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value>
         <option name="FOREGROUND" value="0" />
@@ -376,21 +379,6 @@
     </option>
     <option name="KOTLIN_ANNOTATION">
       <value />
-    </option>
-    <option name="KOTLIN_SMART_CAST_RECEIVER">
-      <value>
-        <option name="FOREGROUND" value="bfb743" />
-      </value>
-    </option>
-    <option name="KOTLIN_SMART_CAST_VALUE">
-      <value>
-        <option name="FOREGROUND" value="bfb743" />
-      </value>
-    </option>
-    <option name="KOTLIN_SMART_CONSTANT">
-      <value>
-        <option name="FOREGROUND" value="bfb743" />
-      </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>

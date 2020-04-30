@@ -17,6 +17,7 @@
       <mapping pattern="A_sample_expected" type="PLAIN_TEXT" />
       <mapping pattern=".gcloudignore" type="PLAIN_TEXT" />
       <mapping ext="expected" type="PLAIN_TEXT" />
+      <mapping ext="me" type="PLAIN_TEXT" />
       <mapping ext="python" type="PLAIN_TEXT" />
       <mapping ext="jsonl" type="PLAIN_TEXT" />
       <mapping ext="avsc" type="PLAIN_TEXT" />

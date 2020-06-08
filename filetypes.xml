@@ -10,6 +10,7 @@
       <mapping pattern="runs-0415" type="PLAIN_TEXT" />
       <mapping pattern="stopin" type="PLAIN_TEXT" />
       <mapping pattern="A_sample" type="PLAIN_TEXT" />
+      <mapping pattern="nogit" type="PLAIN_TEXT" />
       <mapping pattern="resources" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="query_fields" type="PLAIN_TEXT" />

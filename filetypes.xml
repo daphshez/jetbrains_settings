@@ -3,10 +3,8 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="location_updates" type="PLAIN_TEXT" />
-      <mapping pattern="examples" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="ppr_shutdown" type="PLAIN_TEXT" />
-      <mapping pattern=".cloudignore" type="PLAIN_TEXT" />
+      <mapping pattern="examples" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-dev" type="PLAIN_TEXT" />
       <mapping pattern=".cloudyaml" type="PLAIN_TEXT" />
       <mapping pattern="runs-0415" type="PLAIN_TEXT" />
@@ -14,8 +12,10 @@
       <mapping pattern="A_sample" type="PLAIN_TEXT" />
       <mapping pattern="nogit" type="PLAIN_TEXT" />
       <mapping pattern="resources" type="PLAIN_TEXT" />
-      <mapping pattern="A_sample_expected" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="query_fields" type="PLAIN_TEXT" />
+      <mapping pattern=".cloudignore" type="PLAIN_TEXT" />
+      <mapping pattern="A_sample_expected" type="PLAIN_TEXT" />
       <mapping pattern=".gcloudignore" type="PLAIN_TEXT" />
       <mapping ext="expected" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />

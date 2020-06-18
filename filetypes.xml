@@ -17,6 +17,7 @@
       <mapping pattern="ppr_shutdown" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-dev" type="PLAIN_TEXT" />
       <mapping pattern="resources" type="PLAIN_TEXT" />
+      <mapping ext="osm" type="PLAIN_TEXT" />
       <mapping ext="expected" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
       <mapping ext="python" type="PLAIN_TEXT" />

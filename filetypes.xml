@@ -10,6 +10,7 @@
       <mapping pattern=".cloudignore" type="PLAIN_TEXT" />
       <mapping pattern=".cloudyaml" type="PLAIN_TEXT" />
       <mapping pattern="A_sample_expected" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-tests" type="PLAIN_TEXT" />
       <mapping pattern="query_fields" type="PLAIN_TEXT" />
       <mapping pattern="stopin" type="PLAIN_TEXT" />

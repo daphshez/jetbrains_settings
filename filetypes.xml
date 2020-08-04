@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="location_updates" type="PLAIN_TEXT" />
       <mapping pattern="A_sample" type="PLAIN_TEXT" />
+      <mapping pattern="siri_vm_schema" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="nogit" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
@@ -13,7 +14,6 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-tests" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-for-test" type="PLAIN_TEXT" />
-      <mapping pattern="siri_vm_schema" type="PLAIN_TEXT" />
       <mapping pattern="query_fields" type="PLAIN_TEXT" />
       <mapping pattern="stopin" type="PLAIN_TEXT" />
       <mapping pattern="runs-0415" type="PLAIN_TEXT" />

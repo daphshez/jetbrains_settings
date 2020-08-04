@@ -83,7 +83,9 @@
       <value />
     </option>
     <option name="CONSOLE_USER_INPUT">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="74787a" />
+      </value>
     </option>
     <option name="CTRL_CLICKABLE">
       <value>

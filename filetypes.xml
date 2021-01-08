@@ -20,9 +20,9 @@
       <mapping pattern="runs-0415" type="PLAIN_TEXT" />
       <mapping pattern="A_sample_expected" type="PLAIN_TEXT" />
       <mapping pattern="query_fields" type="PLAIN_TEXT" />
-      <mapping pattern=".cloudyaml" type="PLAIN_TEXT" />
-      <mapping pattern="hello" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_local" type="PLAIN_TEXT" />
+      <mapping pattern="hello" type="PLAIN_TEXT" />
+      <mapping pattern=".cloudyaml" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-tests" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-for-test" type="PLAIN_TEXT" />
       <mapping ext="expected" type="PLAIN_TEXT" />

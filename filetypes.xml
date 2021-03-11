@@ -4,6 +4,8 @@
     <extensionMap>
       <mapping pattern="workflows" type="AUTO_DETECTED" />
       <mapping pattern="client_id" type="AUTO_DETECTED" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping pattern="resources" type="PLAIN_TEXT" />
@@ -16,8 +18,8 @@
       <mapping pattern="location_updates" type="PLAIN_TEXT" />
       <mapping pattern="A_sample_expected" type="PLAIN_TEXT" />
       <mapping pattern="query_fields" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile_local" type="PLAIN_TEXT" />
       <mapping pattern=".cloudyaml" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_local" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-tests" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-for-test" type="PLAIN_TEXT" />
       <mapping pattern="examples" type="PLAIN_TEXT" />
@@ -42,8 +44,6 @@
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>

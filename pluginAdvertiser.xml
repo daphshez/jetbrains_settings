@@ -68,8 +68,8 @@
         <entry key="*.apk">
           <value>
             <plugin>
-              <option name="myPluginId" value="org.jetbrains.android" />
-              <option name="myPluginName" value="Android" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -340,6 +340,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.hcl">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.hcl" />
+              <option name="myPluginName" value="HashiCorp Terraform / HCL language support" />
             </plugin>
           </value>
         </entry>
@@ -658,6 +666,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.nomad">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.hcl" />
+              <option name="myPluginName" value="HashiCorp Terraform / HCL language support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.odt">
           <value>
             <plugin>
@@ -805,8 +821,8 @@
         <entry key="*.psd">
           <value>
             <plugin>
-              <option name="myPluginId" value="org.jetbrains.android" />
-              <option name="myPluginName" value="Android" />
+              <option name="myPluginId" value="com.intellij.platform.images" />
+              <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -982,6 +998,22 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.tf">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.hcl" />
+              <option name="myPluginName" value="HashiCorp Terraform / HCL language support" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.tfvars">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.hcl" />
+              <option name="myPluginName" value="HashiCorp Terraform / HCL language support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.tga">
           <value>
             <plugin>
@@ -1039,9 +1071,8 @@
         <entry key="*.txt">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="ru.meanmail.plugin.requirements" />
+              <option name="myPluginName" value="Requirements" />
             </plugin>
           </value>
         </entry>
@@ -1408,6 +1439,11 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
+                  <entry key="#org.intellij.plugins.hcl.terraform.run.TerraformConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Terraform" pluginName="HashiCorp Terraform / HCL language support" pluginId="org.intellij.plugins.hcl" />
+                    </value>
+                  </entry>
                   <entry key="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Plugin" pluginName="Plugin DevKit" pluginId="DevKit" />

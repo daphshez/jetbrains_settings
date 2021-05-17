@@ -39,6 +39,7 @@
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="osm" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
       <mapping ext="jsonl" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />

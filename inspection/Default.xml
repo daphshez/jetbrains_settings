@@ -3,7 +3,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="141">
+        <list size="142">
           <item index="0" class="java.lang.String" itemvalue="dateutil" />
           <item index="1" class="java.lang.String" itemvalue="pytest" />
           <item index="2" class="java.lang.String" itemvalue="gunicorn" />
@@ -145,6 +145,7 @@
           <item index="138" class="java.lang.String" itemvalue="grpcio" />
           <item index="139" class="java.lang.String" itemvalue="dm-tree" />
           <item index="140" class="java.lang.String" itemvalue="google-auth" />
+          <item index="141" class="java.lang.String" itemvalue="flask-cors" />
         </list>
       </value>
     </option>

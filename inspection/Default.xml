@@ -3,7 +3,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="141">
+        <list size="143">
           <item index="0" class="java.lang.String" itemvalue="dateutil" />
           <item index="1" class="java.lang.String" itemvalue="pytest" />
           <item index="2" class="java.lang.String" itemvalue="gunicorn" />
@@ -145,9 +145,18 @@
           <item index="138" class="java.lang.String" itemvalue="grpcio" />
           <item index="139" class="java.lang.String" itemvalue="dm-tree" />
           <item index="140" class="java.lang.String" itemvalue="google-auth" />
+          <item index="141" class="java.lang.String" itemvalue="flask-cors" />
+          <item index="142" class="java.lang.String" itemvalue="google.cloud.storage" />
         </list>
       </value>
     </option>
   </inspection_tool>
   <inspection_tool class="PyStatementEffectInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ignoredIdentifiers">
+      <list>
+        <option value="list.__getitem__" />
+      </list>
+    </option>
+  </inspection_tool>
 </profile>

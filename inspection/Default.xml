@@ -3,7 +3,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="143">
+        <list size="147">
           <item index="0" class="java.lang.String" itemvalue="dateutil" />
           <item index="1" class="java.lang.String" itemvalue="pytest" />
           <item index="2" class="java.lang.String" itemvalue="gunicorn" />
@@ -147,6 +147,10 @@
           <item index="140" class="java.lang.String" itemvalue="google-auth" />
           <item index="141" class="java.lang.String" itemvalue="flask-cors" />
           <item index="142" class="java.lang.String" itemvalue="google.cloud.storage" />
+          <item index="143" class="java.lang.String" itemvalue="Shapely" />
+          <item index="144" class="java.lang.String" itemvalue="logging" />
+          <item index="145" class="java.lang.String" itemvalue="setuptools" />
+          <item index="146" class="java.lang.String" itemvalue="pyhash" />
         </list>
       </value>
     </option>

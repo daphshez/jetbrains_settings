@@ -3,7 +3,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="148">
+        <list size="149">
           <item index="0" class="java.lang.String" itemvalue="dateutil" />
           <item index="1" class="java.lang.String" itemvalue="pytest" />
           <item index="2" class="java.lang.String" itemvalue="gunicorn" />
@@ -152,6 +152,7 @@
           <item index="145" class="java.lang.String" itemvalue="setuptools" />
           <item index="146" class="java.lang.String" itemvalue="pyhash" />
           <item index="147" class="java.lang.String" itemvalue="scheduler-auth" />
+          <item index="148" class="java.lang.String" itemvalue="pymongo" />
         </list>
       </value>
     </option>

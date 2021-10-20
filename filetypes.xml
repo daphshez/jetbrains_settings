@@ -6,8 +6,8 @@
       <mapping pattern="client_id" type="AUTO_DETECTED" />
       <mapping pattern="scripts" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile-dev" type="PLAIN_TEXT" />
-      <mapping pattern="ppr_shutdown" type="PLAIN_TEXT" />
       <mapping pattern="A_sample" type="PLAIN_TEXT" />
+      <mapping pattern="ppr_shutdown" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-tests" type="PLAIN_TEXT" />
       <mapping pattern="runs-0415" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-for-test" type="PLAIN_TEXT" />
@@ -37,20 +37,14 @@
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="osm" type="PLAIN_TEXT" />
-      <mapping ext="txt" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
       <mapping ext="jsonl" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="config" approved="true" type="LOMBOK_CONFIG" />
       <removed_mapping ext="config" approved="true" type="LOMBOK_CONFIG" />
       <removed_mapping ext="jsonl" approved="true" type="JSON-lines" />
-      <removed_mapping ext="jsonl" approved="true" type="JSON-lines" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping ext="tf" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="tf" approved="true" type="PLAIN_TEXT" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />

@@ -5,6 +5,7 @@
       <mapping pattern="workflows" type="AUTO_DETECTED" />
       <mapping pattern="client_id" type="AUTO_DETECTED" />
       <mapping pattern="scripts" type="AUTO_DETECTED" />
+      <mapping pattern="back_office_member" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile-dev" type="PLAIN_TEXT" />
       <mapping pattern="ppr_shutdown" type="PLAIN_TEXT" />
       <mapping pattern="A_sample" type="PLAIN_TEXT" />

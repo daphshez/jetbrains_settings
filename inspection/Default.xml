@@ -3,7 +3,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="152">
+        <list size="156">
           <item index="0" class="java.lang.String" itemvalue="dateutil" />
           <item index="1" class="java.lang.String" itemvalue="pytest" />
           <item index="2" class="java.lang.String" itemvalue="gunicorn" />
@@ -156,6 +156,10 @@
           <item index="149" class="java.lang.String" itemvalue="shapely" />
           <item index="150" class="java.lang.String" itemvalue="pyproj" />
           <item index="151" class="java.lang.String" itemvalue="google-cloud-workflows" />
+          <item index="152" class="java.lang.String" itemvalue="apache-airflow-providers-apache-beam" />
+          <item index="153" class="java.lang.String" itemvalue="virtualenv" />
+          <item index="154" class="java.lang.String" itemvalue="apache-beam" />
+          <item index="155" class="java.lang.String" itemvalue="apache-airflow-providers-google" />
         </list>
       </value>
     </option>

@@ -8,8 +8,8 @@
       <mapping pattern="scripts" type="AUTO_DETECTED" />
       <mapping pattern="back_office_member" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile-dev" type="PLAIN_TEXT" />
-      <mapping pattern="ppr_shutdown" type="PLAIN_TEXT" />
       <mapping pattern="A_sample" type="PLAIN_TEXT" />
+      <mapping pattern="ppr_shutdown" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-tests" type="PLAIN_TEXT" />
       <mapping pattern="runs-0415" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-for-test" type="PLAIN_TEXT" />

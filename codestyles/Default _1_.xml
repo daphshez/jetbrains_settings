@@ -1,13 +1,10 @@
-<code_scheme name="Default (1)">
-  <option name="JD_P_AT_EMPTY_LINES" value="false" />
+<code_scheme name="Default (1)" version="173">
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="120" />
   </MarkdownNavigatorCodeStyleSettings>
-  <XML>
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
-  </XML>
   <codeStyleSettings language="JAVA">
     <option name="CLASS_BRACE_STYLE" value="2" />
     <option name="METHOD_BRACE_STYLE" value="2" />
+    <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="true" />
   </codeStyleSettings>
 </code_scheme>

@@ -3,7 +3,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="157">
+        <list size="161">
           <item index="0" class="java.lang.String" itemvalue="dateutil" />
           <item index="1" class="java.lang.String" itemvalue="pytest" />
           <item index="2" class="java.lang.String" itemvalue="gunicorn" />
@@ -161,6 +161,10 @@
           <item index="154" class="java.lang.String" itemvalue="apache-beam" />
           <item index="155" class="java.lang.String" itemvalue="apache-airflow-providers-google" />
           <item index="156" class="java.lang.String" itemvalue="xlsxwriter" />
+          <item index="157" class="java.lang.String" itemvalue="mongoengine" />
+          <item index="158" class="java.lang.String" itemvalue="pip" />
+          <item index="159" class="java.lang.String" itemvalue="wheel" />
+          <item index="160" class="java.lang.String" itemvalue="google-api-python-client" />
         </list>
       </value>
     </option>

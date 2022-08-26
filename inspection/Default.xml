@@ -175,6 +175,7 @@
       <list>
         <option value="list.__getitem__" />
         <option value="scheduler_project_service.schedule_kpi_helpers" />
+        <option value="scheduler_transit_time_jobs.tt_prediction.DEFAULT_OSM_SNAPSHOT" />
       </list>
     </option>
   </inspection_tool>

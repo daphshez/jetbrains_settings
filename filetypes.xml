@@ -5,11 +5,9 @@
       <mapping pattern="workflows" type="AUTO_DETECTED" />
       <mapping pattern="client_id" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile-processors" type="AUTO_DETECTED" />
+      <mapping pattern="playground" type="AUTO_DETECTED" />
       <mapping pattern="scripts" type="AUTO_DETECTED" />
       <mapping pattern="back_office_member" type="AUTO_DETECTED" />
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="Dockerfile-dev" type="PLAIN_TEXT" />
       <mapping pattern="ppr_shutdown" type="PLAIN_TEXT" />
       <mapping pattern="A_sample" type="PLAIN_TEXT" />
@@ -52,6 +50,9 @@
       <removed_mapping ext="jsonl" approved="true" type="JSON-lines" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>

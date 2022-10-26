@@ -3,7 +3,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="161">
+        <list size="304">
           <item index="0" class="java.lang.String" itemvalue="dateutil" />
           <item index="1" class="java.lang.String" itemvalue="pytest" />
           <item index="2" class="java.lang.String" itemvalue="gunicorn" />
@@ -165,6 +165,149 @@
           <item index="158" class="java.lang.String" itemvalue="pip" />
           <item index="159" class="java.lang.String" itemvalue="wheel" />
           <item index="160" class="java.lang.String" itemvalue="google-api-python-client" />
+          <item index="161" class="java.lang.String" itemvalue="apache-airflow-providers-hashicorp" />
+          <item index="162" class="java.lang.String" itemvalue="httpx" />
+          <item index="163" class="java.lang.String" itemvalue="apache-airflow-providers-ftp" />
+          <item index="164" class="java.lang.String" itemvalue="google-cloud-audit-log" />
+          <item index="165" class="java.lang.String" itemvalue="greenlet" />
+          <item index="166" class="java.lang.String" itemvalue="keyrings.google-artifactregistry-auth" />
+          <item index="167" class="java.lang.String" itemvalue="Babel" />
+          <item index="168" class="java.lang.String" itemvalue="python-slugify" />
+          <item index="169" class="java.lang.String" itemvalue="markdown-it-py" />
+          <item index="170" class="java.lang.String" itemvalue="google-cloud-dataplex" />
+          <item index="171" class="java.lang.String" itemvalue="docutils" />
+          <item index="172" class="java.lang.String" itemvalue="graphviz" />
+          <item index="173" class="java.lang.String" itemvalue="google-cloud-speech" />
+          <item index="174" class="java.lang.String" itemvalue="libclang" />
+          <item index="175" class="java.lang.String" itemvalue="Flask-WTF" />
+          <item index="176" class="java.lang.String" itemvalue="google-cloud-secret-manager" />
+          <item index="177" class="java.lang.String" itemvalue="agate" />
+          <item index="178" class="java.lang.String" itemvalue="SecretStorage" />
+          <item index="179" class="java.lang.String" itemvalue="leather" />
+          <item index="180" class="java.lang.String" itemvalue="google-cloud-bigtable" />
+          <item index="181" class="java.lang.String" itemvalue="psutil" />
+          <item index="182" class="java.lang.String" itemvalue="apache-airflow-providers-sendgrid" />
+          <item index="183" class="java.lang.String" itemvalue="paramiko" />
+          <item index="184" class="java.lang.String" itemvalue="platformdirs" />
+          <item index="185" class="java.lang.String" itemvalue="google-cloud-language" />
+          <item index="186" class="java.lang.String" itemvalue="humanize" />
+          <item index="187" class="java.lang.String" itemvalue="minimal-snowplow-tracker" />
+          <item index="188" class="java.lang.String" itemvalue="apache-airflow-providers-postgres" />
+          <item index="189" class="java.lang.String" itemvalue="Mako" />
+          <item index="190" class="java.lang.String" itemvalue="msgpack" />
+          <item index="191" class="java.lang.String" itemvalue="httpcore" />
+          <item index="192" class="java.lang.String" itemvalue="google-cloud-orchestration-airflow" />
+          <item index="193" class="java.lang.String" itemvalue="PyJWT" />
+          <item index="194" class="java.lang.String" itemvalue="looker-sdk" />
+          <item index="195" class="java.lang.String" itemvalue="alembic" />
+          <item index="196" class="java.lang.String" itemvalue="networkx" />
+          <item index="197" class="java.lang.String" itemvalue="isodate" />
+          <item index="198" class="java.lang.String" itemvalue="pluggy" />
+          <item index="199" class="java.lang.String" itemvalue="google-cloud-appengine-logging" />
+          <item index="200" class="java.lang.String" itemvalue="connexion" />
+          <item index="201" class="java.lang.String" itemvalue="fastavro" />
+          <item index="202" class="java.lang.String" itemvalue="websocket-client" />
+          <item index="203" class="java.lang.String" itemvalue="parsedatetime" />
+          <item index="204" class="java.lang.String" itemvalue="celery" />
+          <item index="205" class="java.lang.String" itemvalue="cron-descriptor" />
+          <item index="206" class="java.lang.String" itemvalue="Deprecated" />
+          <item index="207" class="java.lang.String" itemvalue="zipp" />
+          <item index="208" class="java.lang.String" itemvalue="google-cloud-texttospeech" />
+          <item index="209" class="java.lang.String" itemvalue="mdurl" />
+          <item index="210" class="java.lang.String" itemvalue="grpcio-status" />
+          <item index="211" class="java.lang.String" itemvalue="google-cloud-translate" />
+          <item index="212" class="java.lang.String" itemvalue="linkify-it-py" />
+          <item index="213" class="java.lang.String" itemvalue="Flask-Session" />
+          <item index="214" class="java.lang.String" itemvalue="cattrs" />
+          <item index="215" class="java.lang.String" itemvalue="db-dtypes" />
+          <item index="216" class="java.lang.String" itemvalue="jaraco.classes" />
+          <item index="217" class="java.lang.String" itemvalue="google-cloud-resource-manager" />
+          <item index="218" class="java.lang.String" itemvalue="amqp" />
+          <item index="219" class="java.lang.String" itemvalue="apache-airflow-providers-ssh" />
+          <item index="220" class="java.lang.String" itemvalue="dbt-extractor" />
+          <item index="221" class="java.lang.String" itemvalue="overrides" />
+          <item index="222" class="java.lang.String" itemvalue="google-cloud-container" />
+          <item index="223" class="java.lang.String" itemvalue="google-ads" />
+          <item index="224" class="java.lang.String" itemvalue="importlib-resources" />
+          <item index="225" class="java.lang.String" itemvalue="python-http-client" />
+          <item index="226" class="java.lang.String" itemvalue="apache-airflow-providers-http" />
+          <item index="227" class="java.lang.String" itemvalue="Flask-AppBuilder" />
+          <item index="228" class="java.lang.String" itemvalue="future" />
+          <item index="229" class="java.lang.String" itemvalue="multidict" />
+          <item index="230" class="java.lang.String" itemvalue="yarl" />
+          <item index="231" class="java.lang.String" itemvalue="keyring" />
+          <item index="232" class="java.lang.String" itemvalue="setproctitle" />
+          <item index="233" class="java.lang.String" itemvalue="requests-toolbelt" />
+          <item index="234" class="java.lang.String" itemvalue="mashumaro" />
+          <item index="235" class="java.lang.String" itemvalue="kubernetes" />
+          <item index="236" class="java.lang.String" itemvalue="kombu" />
+          <item index="237" class="java.lang.String" itemvalue="google-cloud-spanner" />
+          <item index="238" class="java.lang.String" itemvalue="frozenlist" />
+          <item index="239" class="java.lang.String" itemvalue="fsspec" />
+          <item index="240" class="java.lang.String" itemvalue="Logbook" />
+          <item index="241" class="java.lang.String" itemvalue="appdirs" />
+          <item index="242" class="java.lang.String" itemvalue="filelock" />
+          <item index="243" class="java.lang.String" itemvalue="sqlalchemy-bigquery" />
+          <item index="244" class="java.lang.String" itemvalue="anyio" />
+          <item index="245" class="java.lang.String" itemvalue="keras" />
+          <item index="246" class="java.lang.String" itemvalue="apache-airflow" />
+          <item index="247" class="java.lang.String" itemvalue="apache-airflow-providers-imap" />
+          <item index="248" class="java.lang.String" itemvalue="Flask-Caching" />
+          <item index="249" class="java.lang.String" itemvalue="email-validator" />
+          <item index="250" class="java.lang.String" itemvalue="apache-airflow-providers-dbt-cloud" />
+          <item index="251" class="java.lang.String" itemvalue="dnspython" />
+          <item index="252" class="java.lang.String" itemvalue="google-cloud-videointelligence" />
+          <item index="253" class="java.lang.String" itemvalue="apache-airflow-providers-sqlite" />
+          <item index="254" class="java.lang.String" itemvalue="cryptography" />
+          <item index="255" class="java.lang.String" itemvalue="orjson" />
+          <item index="256" class="java.lang.String" itemvalue="google-cloud-aiplatform" />
+          <item index="257" class="java.lang.String" itemvalue="sendgrid" />
+          <item index="258" class="java.lang.String" itemvalue="google-cloud-common" />
+          <item index="259" class="java.lang.String" itemvalue="bcrypt" />
+          <item index="260" class="java.lang.String" itemvalue="pandas-gbq" />
+          <item index="261" class="java.lang.String" itemvalue="mdit-py-plugins" />
+          <item index="262" class="java.lang.String" itemvalue="charset-normalizer" />
+          <item index="263" class="java.lang.String" itemvalue="uc-micro-py" />
+          <item index="264" class="java.lang.String" itemvalue="CacheControl" />
+          <item index="265" class="java.lang.String" itemvalue="pathspec" />
+          <item index="266" class="java.lang.String" itemvalue="firebase-admin" />
+          <item index="267" class="java.lang.String" itemvalue="async-timeout" />
+          <item index="268" class="java.lang.String" itemvalue="pytimeparse" />
+          <item index="269" class="java.lang.String" itemvalue="google-cloud-vision" />
+          <item index="270" class="java.lang.String" itemvalue="hologram" />
+          <item index="271" class="java.lang.String" itemvalue="more-itertools" />
+          <item index="272" class="java.lang.String" itemvalue="SQLAlchemy" />
+          <item index="273" class="java.lang.String" itemvalue="httplib2" />
+          <item index="274" class="java.lang.String" itemvalue="importlib-metadata" />
+          <item index="275" class="java.lang.String" itemvalue="jeepney" />
+          <item index="276" class="java.lang.String" itemvalue="Flask-Login" />
+          <item index="277" class="java.lang.String" itemvalue="google-cloud-memcache" />
+          <item index="278" class="java.lang.String" itemvalue="grpc-google-iam-v1" />
+          <item index="279" class="java.lang.String" itemvalue="mysql-connector-python" />
+          <item index="280" class="java.lang.String" itemvalue="sqlparse" />
+          <item index="281" class="java.lang.String" itemvalue="Flask-Bcrypt" />
+          <item index="282" class="java.lang.String" itemvalue="Flask-JWT-Extended" />
+          <item index="283" class="java.lang.String" itemvalue="SQLAlchemy-Utils" />
+          <item index="284" class="java.lang.String" itemvalue="tf-estimator-nightly" />
+          <item index="285" class="java.lang.String" itemvalue="croniter" />
+          <item index="286" class="java.lang.String" itemvalue="google-cloud-filestore" />
+          <item index="287" class="java.lang.String" itemvalue="dbt-core" />
+          <item index="288" class="java.lang.String" itemvalue="google-cloud-dataproc-metastore" />
+          <item index="289" class="java.lang.String" itemvalue="pipdeptree" />
+          <item index="290" class="java.lang.String" itemvalue="rich" />
+          <item index="291" class="java.lang.String" itemvalue="cachelib" />
+          <item index="292" class="java.lang.String" itemvalue="google-cloud-dlp" />
+          <item index="293" class="java.lang.String" itemvalue="lazy-object-proxy" />
+          <item index="294" class="java.lang.String" itemvalue="colorama" />
+          <item index="295" class="java.lang.String" itemvalue="google-cloud-build" />
+          <item index="296" class="java.lang.String" itemvalue="aiohttp" />
+          <item index="297" class="java.lang.String" itemvalue="hdfs" />
+          <item index="298" class="java.lang.String" itemvalue="apache-airflow-providers-cncf-kubernetes" />
+          <item index="299" class="java.lang.String" itemvalue="google-cloud-bigquery-storage" />
+          <item index="300" class="java.lang.String" itemvalue="aiosignal" />
+          <item index="301" class="java.lang.String" itemvalue="google-cloud-firestore" />
+          <item index="302" class="java.lang.String" itemvalue="gcsfs" />
+          <item index="303" class="java.lang.String" itemvalue="pydata-google-auth" />
         </list>
       </value>
     </option>

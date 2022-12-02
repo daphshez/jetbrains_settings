@@ -1,4 +1,4 @@
-<filetype binary="false" description="config files" name="Config">
+<filetype binary="false" default_extension="conf" description="config files" name="Config">
   <highlighting>
     <options>
       <option name="LINE_COMMENT" value="#" />

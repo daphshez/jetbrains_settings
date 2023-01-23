@@ -2,37 +2,39 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
+      <mapping pattern="workflows" type="AUTO_DETECTED" />
       <mapping pattern="client_id" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile-processors" type="AUTO_DETECTED" />
-      <mapping pattern="workflows" type="AUTO_DETECTED" />
       <mapping pattern="playground" type="AUTO_DETECTED" />
       <mapping pattern="scripts" type="AUTO_DETECTED" />
       <mapping pattern="back_office_member" type="AUTO_DETECTED" />
       <mapping pattern="docker-run-as-self" type="AUTO_DETECTED" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="Dockerfile-dev" type="PLAIN_TEXT" />
-      <mapping pattern="A_sample" type="PLAIN_TEXT" />
       <mapping pattern="ppr_shutdown" type="PLAIN_TEXT" />
+      <mapping pattern="A_sample" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-tests" type="PLAIN_TEXT" />
       <mapping pattern="runs-0415" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-for-test" type="PLAIN_TEXT" />
+      <mapping pattern="query_fields" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="resources" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_local" type="PLAIN_TEXT" />
       <mapping pattern=".gcloudignore" type="PLAIN_TEXT" />
+      <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping pattern=".cloudignore" type="PLAIN_TEXT" />
       <mapping pattern="siri_vm_schema" type="PLAIN_TEXT" />
       <mapping pattern=".cloudyaml" type="PLAIN_TEXT" />
       <mapping pattern="nogit" type="PLAIN_TEXT" />
-      <mapping pattern="examples" type="PLAIN_TEXT" />
-      <mapping pattern="hello" type="PLAIN_TEXT" />
-      <mapping pattern="ppr_shutdown" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile-for-test" type="PLAIN_TEXT" />
-      <mapping pattern="query_fields" type="PLAIN_TEXT" />
-      <mapping pattern="resources" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile_local" type="PLAIN_TEXT" />
-      <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping pattern="stopin" type="PLAIN_TEXT" />
+      <mapping pattern="examples" type="PLAIN_TEXT" />
       <mapping pattern="A_sample_expected" type="PLAIN_TEXT" />
       <mapping pattern="location_updates" type="PLAIN_TEXT" />
+      <mapping pattern="hello" type="PLAIN_TEXT" />
       <mapping pattern=".cloudbuild" type="PLAIN_TEXT" />
       <mapping ext="expected" type="PLAIN_TEXT" />
       <mapping ext="python" type="PLAIN_TEXT" />
@@ -52,9 +54,6 @@
       <removed_mapping ext="jsonl" approved="true" type="JSON-lines" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="space.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>

@@ -11,7 +11,6 @@
       <mapping pattern="docker-run-as-self" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile-dev" type="PLAIN_TEXT" />
       <mapping pattern="A_sample" type="PLAIN_TEXT" />
-      <mapping pattern="ppr_shutdown" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-tests" type="PLAIN_TEXT" />
       <mapping pattern="runs-0415" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />

@@ -5,5 +5,10 @@
         <option value="English (GB)" />
       </set>
     </option>
+    <option name="userDisabledRules">
+      <set>
+        <option value="LanguageTool.EN.OXFORD_SPELLING_Z_NOT_S" />
+      </set>
+    </option>
   </component>
 </application>
